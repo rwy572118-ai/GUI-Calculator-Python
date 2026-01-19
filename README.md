@@ -1,2 +1,17 @@
-# GUI-Calculator-Python
-A professional Graphical User Interface (GUI) calculator built using Python, providing an interactive and user-friendly experience for complex calculations."
+# 🧮 GUI Calculator - Python
+
+![Calculator Screenshot](screenshot.png)
+
+## 📝 وصف المشروع
+آلة حاسبة احترافية بواجهة رسومية (GUI) تم بناؤها باستخدام لغة **Python** ومكتبة **Tkinter**.
+
+## 🚀 المميزات
+* **واجهة جذابة:** تصميم سهل ومريح للعين.
+* **العمليات الأساسية:** جمع، طرح، ضرب، وقسمة.
+* **معالجة الأخطاء:** البرنامج لا يتوقف عند القسمة على صفر.
+
+## 💻 طريقة التشغيل
+1. تأكد من تثبيت Python على جهازك.
+2. قم بتشغيل الملف:
+   ```bash
+   python calculator.py
